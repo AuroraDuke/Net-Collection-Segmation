@@ -2,7 +2,7 @@
 
 ## UNet Collection - SegNet - DeeplabV3 - UNet++ - U2Net
 
-### PyTorch
+### <span style="color: blue;">Pytorch</span>
 #### U2Net
 - [U2Net GitHub Repository](https://github.com/xuebinqin/U-2-Net/tree/master)
 
