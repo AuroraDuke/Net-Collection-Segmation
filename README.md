@@ -10,7 +10,7 @@
 
 ### Keras-TensorFlow
 #### First Collection
-- [Keras UNet Collection GitHub Repository](https://github.com/yingkaisha/keras-unet-collection/tree/main)
+- [Keras UNet Collection-1 GitHub Repository](https://github.com/yingkaisha/keras-unet-collection/tree/main)
 
 #### Second Collection
-- [Image Segmentation Keras GitHub Repository](https://github.com/divamgupta/image-segmentation-keras/tree/master)
+- [Keras UNet Collection-2 GitHub Repository](https://github.com/divamgupta/image-segmentation-keras/tree/master)
