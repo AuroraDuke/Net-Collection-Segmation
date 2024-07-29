@@ -29,5 +29,5 @@ DataSet/
 │   ├── mask1.jpg
 │   ├── mask2.jpg
 │   ├── ...
-|Script//runable code such as  NewPytorch.ipynb
+Script//runable code such as  NewPytorch.ipynb
 ```
