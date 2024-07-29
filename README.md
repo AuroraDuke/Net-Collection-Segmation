@@ -20,14 +20,15 @@
 ### [Crack Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EGIEBY)
 
 ```
-DataSet/
-├── images/
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   ├── ...
-├── masks/
-│   ├── mask1.jpg
-│   ├── mask2.jpg
-│   ├── ...
-Script//runable code such as  NewPytorch.ipynb
+Net-Collection/
+├── DataSet/
+│ ├── images/
+│ │ ├── image1.jpg
+│ │ ├── image2.jpg
+│ │ ├── ...
+│ ├── masks/
+│ │ ├── mask1.jpg
+│ │ ├── mask2.jpg
+│ │ ├── ...
+├── Script//runable code such as  NewPytorch.ipynb
 ```
